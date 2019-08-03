@@ -15,6 +15,32 @@ NOTE: you should use `npm` commands to install dependencies (to get the semantic
 
 ## Install
 
+- Create your project folder
+
+```bash
+mkdir PROJECT_NAME # Should match your remote project name
+```
+
+- Clone the repo
+
+```bash
+git clone https://github.com/Krakcen/nextjs-boilerplate.git PROJECT_NAME
+cd PROJECT_NAME
+```
+
+- Remove the `.git` folder
+
+```bash
+rm -rf .git
+git init
+```
+
+- Set your project git remote
+
+```bash
+git remote add origin REMOTE_NAME
+```
+
 Commands below use npm, but using yarn also works.
 
 ```bash
