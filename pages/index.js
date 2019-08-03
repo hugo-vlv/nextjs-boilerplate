@@ -14,7 +14,7 @@ const Home = () => (
         <Grid>
             <Grid.Row>
                 <Grid.Column>
-                    <Message>This is a NextJS Boilerplate</Message>
+                    <Message color="red">This is a NextJS Boilerplate</Message>
                 </Grid.Column>
             </Grid.Row>
         </Grid>

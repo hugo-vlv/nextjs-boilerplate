@@ -1,9 +1,9 @@
 {
   "dependencies": {
+    "fomantic-ui": "^2.7.7",
     "next": "^9.0.3",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "semantic-ui": "^2.4.2",
     "semantic-ui-react": "^0.87.3",
     "styled-components": "^4.3.2"
   },
@@ -11,8 +11,8 @@
     "dev": "next -p 3042",
     "build": "next build",
     "start": "next start",
-    "build-semantic": "cd semantic && gulp build-css build-assets",
-    "watch-semantic": "cd semantic && yarn run build-semantic && gulp watch"
+    "build-semantic": "cd semantic && gulp build",
+    "install": "npm run build-semantic"
   },
   "devDependencies": {
     "babel-plugin-styled-components": "^1.10.6",
@@ -21,7 +21,7 @@
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.14.3",
-    "gulp": "^3.9.0"
+    "gulp": "^4.0.2"
   },
   "browserslist": [
     "last 2 version",
