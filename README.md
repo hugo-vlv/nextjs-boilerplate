@@ -6,8 +6,6 @@ This config supports the SSR feature provided by NextJS.
 
 NOTE: you should use `npm` commands to install dependencies (to get the semantic installer prompt).
 
-you can use yarn as well, but you will need to manually run gulp in the `node_modules/fomantic-ui` folder to start the installer.
-
 ## Configuration List
 
 - Basic NextJS installation
@@ -17,10 +15,12 @@ you can use yarn as well, but you will need to manually run gulp in the `node_mo
 
 ## Install
 
+Commands below use npm, but using yarn also works.
+
 ```bash
 $ npm install
 
-# Semantic UI Install Prompt:
+# Semantic UI Install (if prompted):
 
 # Set-up Semantic UI ==> Express
 # We detected you are using NPM Nice! Is this your project folder? ==> Yes
