@@ -35,4 +35,38 @@ $ npm install
 
 ```bash
 $ npm run dev
+
+# By default the server listens to port 3042, you can change this in package.json
+# You should see the home page, use the links to learn more about the stack used
+```
+
+## Directory Structure
+
+This boilerplate follows the standard nextjs structure.
+
+The `components` folder contains ready to use components with importing / exporting suggestions.
+
+The `semantic.json` file specifies how the semantic build should be processed.
+You will probably not need to edit this file, except if you want to include only certain components to the build.
+
+Feel free to edit the `.eslintrc.json` config file to adjust eslint to your needs
+
+Editing `.babelrc` allows you to extend nextjs babel config so you can add transpiling functionality to your project.
+
+```
+.
+├── .babelrc
+├── .eslintrc.json
+├── .gitignore
+├── LICENSE
+├── README.md
+├── 📁components
+├── 📁node_modules
+├── package-lock.json
+├── package.json
+├── 📁pages
+├── 📁semantic
+├── semantic.json
+├── 📁static
+└── yarn.lock
 ```
