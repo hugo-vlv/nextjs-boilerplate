@@ -564,10 +564,10 @@
 --------------------*/
 
 .ui.red.segment.segment.segment.segment.segment:not(.inverted) {
-  border-top: 2px solid wheat;
+  border-top: 2px solid #DB2828;
 }
 .ui.inverted.red.segment.segment.segment.segment.segment {
-  background-color: wheat;
+  background-color: #DB2828;
   color: #FFFFFF;
 }
 .ui.orange.segment.segment.segment.segment.segment:not(.inverted) {

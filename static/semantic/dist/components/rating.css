@@ -98,12 +98,12 @@
 }
 .ui.red.rating .active.icon {
   color: #FF695E;
-  text-shadow: 0px -1px 0px wheat, -1px 0px 0px wheat, 0px 1px 0px wheat, 1px 0px 0px wheat;
+  text-shadow: 0px -1px 0px #DB2828, -1px 0px 0px #DB2828, 0px 1px 0px #DB2828, 1px 0px 0px #DB2828;
 }
 .ui.red.rating .icon.selected,
 .ui.red.rating .icon.selected.active {
   color: #ff392b;
-  text-shadow: 0px -1px 0px #f6d698, -1px 0px 0px #f6d698, 0px 1px 0px #f6d698, 1px 0px 0px #f6d698;
+  text-shadow: 0px -1px 0px #d01919, -1px 0px 0px #d01919, 0px 1px 0px #d01919, 1px 0px 0px #d01919;
 }
 .ui.orange.rating .active.icon {
   color: #FF851B;

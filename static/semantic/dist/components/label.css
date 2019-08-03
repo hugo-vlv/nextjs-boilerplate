@@ -791,36 +791,36 @@ a.ui.ui.ui.inverted.basic.secondary.label:hover {
 }
 .ui.red.labels .label,
 .ui.ui.ui.red.label {
-  background-color: wheat;
-  border-color: wheat;
+  background-color: #DB2828;
+  border-color: #DB2828;
   color: #FFFFFF;
 }
 
 /* Link */
 .ui.red.labels a.label:hover,
 a.ui.ui.ui.red.label:hover {
-  background-color: #f6d698;
-  border-color: #f6d698;
+  background-color: #d01919;
+  border-color: #d01919;
   color: #FFFFFF;
 }
 
 /* Ribbon */
 .ui.ui.ui.red.ribbon.label {
-  border-color: #efca86;
+  border-color: #b21e1e;
 }
 
 /* Basic */
 .ui.basic.labels .red.label,
 .ui.ui.ui.basic.red.label {
   background: none #FFFFFF;
-  border-color: wheat;
-  color: wheat;
+  border-color: #DB2828;
+  color: #DB2828;
 }
 .ui.basic.labels a.red.label:hover,
 a.ui.ui.ui.basic.red.label:hover {
   background: none #FFFFFF;
-  border-color: #f6d698;
-  color: #f6d698;
+  border-color: #d01919;
+  color: #d01919;
 }
 
 /* Inverted */

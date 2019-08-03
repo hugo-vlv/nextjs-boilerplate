@@ -710,24 +710,24 @@
   color: rgba(255, 255, 255, 0.9);
 }
 .ui.red.table {
-  border-top: 0.2em solid wheat;
+  border-top: 0.2em solid #DB2828;
 }
 .ui.inverted.red.table {
-  background-color: wheat;
+  background-color: #DB2828;
   color: #FFFFFF;
 }
 .ui.ui.ui.ui.table tr.red,
 .ui.ui.table td.red {
-  -webkit-box-shadow: 0 0 0 #efca86 inset;
-          box-shadow: 0 0 0 #efca86 inset;
+  -webkit-box-shadow: 0 0 0 #b21e1e inset;
+          box-shadow: 0 0 0 #b21e1e inset;
   background: #ffe1df;
-  color: wheat;
+  color: #DB2828;
 }
 .ui.ui.selectable.table tr.red:hover,
 .ui.table tr td.selectable.red:hover,
 .ui.selectable.table tr:hover td.red {
   background: #ffd7d5;
-  color: wheat;
+  color: #DB2828;
 }
 .ui.orange.table {
   border-top: 0.2em solid #F2711C;

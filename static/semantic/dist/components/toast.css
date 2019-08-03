@@ -108,7 +108,7 @@
   background-color: #21BA45;
 }
 .error.toast {
-  background-color: wheat;
+  background-color: #DB2828;
 }
 .toast-box .info.attached.progress .bar {
   background: #12a1bf !important;
@@ -120,7 +120,7 @@
   background: #15792d !important;
 }
 .toast-box .error.attached.progress .bar {
-  background: #ecc16f !important;
+  background: #9c1a1a !important;
 }
 
 /*--------------
@@ -142,7 +142,7 @@
   background-color: #545454;
 }
 .red.toast {
-  background-color: wheat;
+  background-color: #DB2828;
 }
 .inverted.red.toast,
 .toast-box .inverted.red.attached.progress .bar {

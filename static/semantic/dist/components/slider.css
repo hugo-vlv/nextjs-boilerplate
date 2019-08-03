@@ -296,7 +296,7 @@
 
 /* Standard */
 .ui.red.slider .inner .track-fill {
-  background-color: wheat;
+  background-color: #DB2828;
 }
 .ui.red.inverted.slider .inner .track-fill {
   background-color: #FF695E;
@@ -304,11 +304,11 @@
 
 /* Basic */
 .ui.red.slider.basic .inner .thumb {
-  background-color: wheat;
+  background-color: #DB2828;
 }
 .ui.red.slider.basic .inner .thumb:hover,
 .ui.red.slider.basic:focus .inner .thumb {
-  background-color: #f6d698;
+  background-color: #d01919;
 }
 
 /* Basic Inverted */
